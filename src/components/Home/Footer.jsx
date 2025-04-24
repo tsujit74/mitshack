@@ -31,7 +31,7 @@ const Footer = () => {
               transition={{ duration: 0.5 }}
               className="text-3xl font-extrabold"
             >
-              Event<span className="text-yellow-300">Ease</span>
+              Fas<span className="text-yellow-300">Tivo</span>
             </motion.h2>
             <p className="text-gray-300 text-sm leading-relaxed">
               Your ultimate partner for seamless event planning. From weddings
@@ -124,7 +124,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <MdEmail size={20} className="mr-3 text-yellow-300" />
-                <span>hello@eventease.com</span>
+                <span>hello@festivo.com</span>
               </li>
             </ul>
           </div>
@@ -157,7 +157,7 @@ const Footer = () => {
         </div>
 
         <div className="flex flex-col md:flex-row justify-between items-center text-sm text-gray-400">
-          <p>© 2025 EventEase. All rights reserved.</p>
+          <p>© 2025 FESTIVO. All rights reserved.</p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a
               href="/privacy"
