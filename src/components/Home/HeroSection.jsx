@@ -74,7 +74,7 @@ const Hero = ({ isLoggedIn, onLoginOpen }) => {
                 onClick={() => setShowChat(true)}
                 className="px-6 py-3 border border-yellow-300 text-yellow-300 rounded-full font-semibold hover:bg-yellow-300 hover:text-black transition-all duration-200"
               >
-                Ask EventEase
+                Ask FasTivo
               </button>
             </div>
           </motion.div>
